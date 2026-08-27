@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/miguelfaroni">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=228B22&text=MIGUEL%20FARONI&fontColor=228B22&fontSize=52&animation=twinkling&height=220&section=header&stroke=004411&strokeWidth=2" width="100%" alt="Miguel Faroni Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=006400&text=MIGUEL%20FARONI&fontColor=228B22&fontSize=52&animation=twinkling&height=220&section=header&stroke=004411&strokeWidth=2" width="100%" alt="Miguel Faroni Banner" />
   </a>
 </p>
 
