@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/miguelfaroni">
+  <a href="https://github.com/miguelfaroni10">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=020802&text=MIGUEL%20FARONI&fontColor=00FF66&fontSize=52&animation=twinkling&height=220&section=header&stroke=004411&strokeWidth=2" width="100%" alt="Miguel Faroni Banner" />
   </a>
 </p>
