@@ -6,7 +6,7 @@
   </a>
 
   <!-- Borda Animada na Parte Inferior (Sem CSS bloqueado) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=003311&height=100&section=footer&text=WELCOME%20TO%20THE%20MATRIX&fontSize=18&fontColor=00FF66&animation=twinkle" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=003311&height=100&section=footer&fontColor=00FF66&animation=twinkle" />
 
   <br /><br />
 
